@@ -16,5 +16,5 @@
       "name": "res"
     }
   ],
-  "scriptFile": "../dist/createUpdateTodo/index.js"
+  "scriptFile": "../dist/createTodo/index.js"
 }
